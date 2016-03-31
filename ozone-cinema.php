@@ -2,7 +2,7 @@
 /*
 	Plugin Name: Ozone Cinema
 	Description: This is for wordpress plugin for integrating latest updates, events and schedules from the Ozone Cinema into your WordPress projects.
-	Version: 0.1
+	Version: 0.1.1
 	Author: Adedoyin Kassem
 */
 if( ! class_exists( 'Smashing_Updater' ) ){
